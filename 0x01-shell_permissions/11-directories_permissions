@@ -1,2 +1,2 @@
-#!/bin/bash
-find . -type d -exec chmod +111 {} \;
+#!/usr/bin/env bash
+chmod +x */
